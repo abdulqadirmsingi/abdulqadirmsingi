@@ -1,6 +1,6 @@
 👋 Hello World! I'm Abdulqadir Mohammed, a computer science student at the University of Dar es Salaam. 🎓
 
-👨‍💻 I'm passionate about coding and creating digital solutions. My journey in the world of programming started with Python, and I've since explored various languages including HTML, CSS, PHP, JavaScript, Java, and even ventured into the world of C and React.js.
+👨‍💻 I'm passionate about coding and creating digital solutions. My journey in the world of programming started with Python, and I've since explored various languages including HTML, CSS, PHP, JavaScript, Java, and even ventured into the world of C and React.js and currently advancing in laravel.
 
 🌐 Aspiring to be a well-rounded developer, I'm enthusiastic about web development, software engineering, and cybersecurity. I love crafting clean and efficient code to bring ideas to life. I believe in the power of technology to shape a better future.
 
