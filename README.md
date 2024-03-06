@@ -1,4 +1,4 @@
-👋 Hello World! I'm Abdulqadir Mohammed Msingi, a computer science student at the University of Dar es Salaam. 🎓
+👋 Hello there! I'm Abdulqadir Mohammed Msingi, a computer science student at the University of Dar es Salaam. 
 
 👨‍💻 I'm passionate about creating digital solutions.
   My journey in the world of programming started with Python, and I've since explored various languages including HTML, CSS, PHP, JavaScript, Java, Django and even ventured into the world 
