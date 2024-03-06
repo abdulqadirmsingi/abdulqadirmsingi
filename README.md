@@ -8,6 +8,8 @@
 
 🚀 Join me as I explore the ever-evolving landscape of technology and work towards becoming a skilled problem-solving developer. Let's connect and collaborate on exciting projects!
 
-📫 Feel free to reach out to me via email @qadirmsingi007@gmail.com or connect with me on LinkedIn www.linkedin.com/in/abdulqadir-msingi-3b1655276. I'm always up for discussions, collaborations, and sharing knowledge.
+📫 Feel free to reach out to me via email @qadirmsingi007@gmail.com or visit my X account https://x.com/qadirrmsingi?s=11
+   I'm always up for discussions, collaborations, and sharing knowledge.
+
 
 Let's code, solve problems and bring solutions!
