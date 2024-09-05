@@ -1,4 +1,3 @@
-# 💫 About Me:
 🔭 I’m currently working on a Football Highlights website and data scraping<br>👯 I’m looking to collaborate on a travelling companion website<br>🤝 I’m looking for help with AI and machine learning<br>🌱 I’m currently learning Vuejs and web scraping<br>⚡ Fun fact I am the friendliest developer you'll ever meet!
 
 
