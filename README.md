@@ -1,4 +1,4 @@
-🔭 I’m currently working on a Web & App development soltuions and ML<br>👯 I’m looking to collaborate on a travelling companion website<br>🤝 I’m looking for help with AI and machine learning<br>🌱 I’m currently learning Vuejs and web scraping<br>⚡ Fun fact I am the friendliest developer you'll ever meet!
+🔭 I’m currently working on a Web & App development solutions and ML<br>👯 I’m looking to collaborate on a travelling companion website<br>🤝 I’m looking for help with AI and machine learning<br>🌱 I’m currently learning Vuejs and web scraping<br>⚡ Fun fact I am the friendliest developer you'll ever meet!
 
 
 ## 🌐 Socials:
