@@ -1,6 +1,3 @@
-🔭 I’m currently working on a Web & App development solutions<br>👯 I’m looking to collaborate on a travelling companion website<br>🤝 I’m looking for help with AI and machine learning<br>🌱 I’m currently learning Machine Learning<br>⚡ Fun fact I am the friendliest developer you'll ever meet!
-
-
 ## 🌐 Socials:
  [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/qadirmsingi) 
 
